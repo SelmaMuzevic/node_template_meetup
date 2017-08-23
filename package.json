@@ -1,0 +1,19 @@
+{
+  "name": "node_template_meetup",
+  "version": "0.0.1",
+  "description": "meetup_template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelmaMuzevic/node_template_meetup.git"
+  },
+  "author": "Selma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SelmaMuzevic/node_template_meetup/issues"
+  },
+  "homepage": "https://github.com/SelmaMuzevic/node_template_meetup#readme"
+}
